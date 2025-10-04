@@ -25,22 +25,23 @@ Open terminal and try execute some kali linux commands
 
 ## OUTPUT:
 # Checking the Port using ifconfig:
-<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 04-10-2025 08_32_00" src="https://github.com/user-attachments/assets/df32cc7b-ccb0-4cc4-965a-f9eeef8401fa" />
+<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 04-10-2025 08_32_00" src="https://github.com/user-attachments/assets/62706791-dd09-44aa-b1b8-4a30b3eb100a" />
+
 # Get into The MsfConsole :
-<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 04-10-2025 08_33_06" src="https://github.com/user-attachments/assets/0a7e8483-9c6a-462c-9c34-b691e194340a" />
+<img width="1920" height="583" alt="KALI 2  Running  - Oracle VirtualBox 04-10-2025 08_33_06" src="https://github.com/user-attachments/assets/80dfa7a5-c0db-4f67-9b33-b768577e321b" />
 
 # Using Help Command :
-<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 04-10-2025 08_33_45" src="https://github.com/user-attachments/assets/a5b1b327-99b3-41ea-99ec-80f72858563e" />
+<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 04-10-2025 08_33_45" src="https://github.com/user-attachments/assets/dd90472a-ca18-4566-b6e3-c66e152d5c47" />
 
 # Nmap :
-<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 04-10-2025 08_38_16" src="https://github.com/user-attachments/assets/3918ee0f-7a40-4c21-a5f1-e26ab60b7dfa" />
+<img width="1920" height="431" alt="KALI 2  Running  - Oracle VirtualBox 04-10-2025 08_38_16" src="https://github.com/user-attachments/assets/8b286716-7278-439b-aec5-f574a3e0e251" />
 
 # Viewing the metasploit framework on root:
-<img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 04-10-2025 08_40_31" src="https://github.com/user-attachments/assets/0e70bf4e-009f-4e09-aaa1-14d023dc067b" />
+
+<img width="534" height="126" alt="KALI 2  Running  - Oracle VirtualBox 04-10-2025 08_40_31" src="https://github.com/user-attachments/assets/c77b6deb-881a-4fd2-a686-46ffba6e8d7f" />
 
 
 
-## OUTPUT:
 
 
 
